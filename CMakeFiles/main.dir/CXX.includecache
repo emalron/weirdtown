@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pjm21/Desktop/Programming/weirdtown/CState.hpp
+Miner.hpp
+C:/Users/pjm21/Desktop/Programming/weirdtown/Miner.hpp
+
+C:/Users/pjm21/Desktop/Programming/weirdtown/HomeState.cpp
+CState.hpp
+C:/Users/pjm21/Desktop/Programming/weirdtown/CState.hpp
+HomeState.hpp
+C:/Users/pjm21/Desktop/Programming/weirdtown/HomeState.hpp
+MineState.hpp
+C:/Users/pjm21/Desktop/Programming/weirdtown/MineState.hpp
+Miner.hpp
+C:/Users/pjm21/Desktop/Programming/weirdtown/Miner.hpp
+
+C:/Users/pjm21/Desktop/Programming/weirdtown/HomeState.hpp
+CState.hpp
+C:/Users/pjm21/Desktop/Programming/weirdtown/CState.hpp
+
+C:/Users/pjm21/Desktop/Programming/weirdtown/MineState.cpp
+HomeState.hpp
+C:/Users/pjm21/Desktop/Programming/weirdtown/HomeState.hpp
+MineState.hpp
+C:/Users/pjm21/Desktop/Programming/weirdtown/MineState.hpp
+Miner.hpp
+C:/Users/pjm21/Desktop/Programming/weirdtown/Miner.hpp
+
+C:/Users/pjm21/Desktop/Programming/weirdtown/MineState.hpp
+CState.hpp
+C:/Users/pjm21/Desktop/Programming/weirdtown/CState.hpp
+
+C:/Users/pjm21/Desktop/Programming/weirdtown/Miner.hpp
+iostream
+-
+string
+-
+
